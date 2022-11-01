@@ -1,0 +1,1 @@
+{'estimator__bootstrap': True, 'estimator__max_depth': 30}
